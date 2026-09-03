@@ -1,5 +1,8 @@
 # Traversing the Unknown
 ### Wormholes, Time, and the Architecture of the Multiverse
+### DOI
+
+[10.5281/zenodo.22262990](https://doi.org/10.5281/zenodo.22262990)
 
 This repository contains the review paper **"Traversing the Unknown: Wormholes, Time, and the Architecture of the Multiverse."**
 
