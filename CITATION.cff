@@ -1,12 +1,10 @@
 cff-version: 1.2.0
 title: "Traversing the Unknown: Wormholes, Time, and the Architecture of the Multiverse"
-message: "If you use or reference this work, please cite it using the information below."
-type: article
+message: "Please cite this work if you use it."
 authors:
-  - family-names: Bhattacharyya
-    given-names: Ditipriya
-date-released: 2026
-version: "1.0"
-repository-code: "https://github.com/bhattacharyyaditipriya-hash/wormhole-review-paper"
+  - family-names: "Bhattacharyya"
+    given-names: "Ditipriya"
+date-released: 2026-09-04
 doi: "10.5281/zenodo.22262990"
-license: "CC BY 4.0"
+version: "1.0"
+
